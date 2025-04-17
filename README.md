@@ -1,4 +1,4 @@
-# Decentralized Autonomous Association (DAA): A New Paradigm for DAOs
+# The Decentralized Autonomous Association (DAA): A New Paradigm for DAOs
 
 This repository introduces the concept of the Decentralized Autonomous Association (DAA), a novel approach to utilizing blockchain governance technology without the legal uncertainties that plague traditional DAOs. The DAA concept focuses on creating standards, principles, and collaborative decision-making rather than engaging in financial or risk-bearing activities.
 
@@ -17,7 +17,8 @@ DAOs that wish to remain decentralized risk entering a regulatory minefield. The
 
 The solution to this problem is to create a novel kind of DAO, one not engaged in regulated or risk-bearing activities. To achieve this goal, we need a DAO that does not pretend to be an organization. But when we remove the 'O' from the equation, a DAO is no longer a DAO. So, what is it?
 
-**I suggest replacing the word 'organization' with 'association.' This would make it a DAA.**
+**<div align="center">I suggest replacing the word 'organization' with 'association.' This would make it a DAA.</div>**
+
 
 ### Definition Decentralized Autonomous Association
 
@@ -33,9 +34,9 @@ Because it is not an organization, a DAA cannot perform the functions commonly p
 
 So, what can it do? A DAA can create law, code, standards, and technologies. It enables societies of any kind to collaborate on creating and voting for binding standards and shared principles. It makes blockchain collaboration tools available to the rest of society. This opens up the possibility to use powerful tools created by the blockchain community for every kind of human cooperation imaginable. As such, the DAA has the following definition:
 
-**An association of independent persons who have an interest, activity, or purpose in common that uses blockchain technology to collaborate on creating and voting for binding standards and shared principles.**
+**<div align="center">An association of independent persons who have an interest, activity, or purpose in common that uses blockchain technology to collaborate on creating and voting for binding standards and shared principles.</div>**
 
-###Use-Cases
+### Use-Cases
 
 From a technological point of view, a DAA is not much different from a DAO. It uses the same technology and the same voting mechanisms. Accordingly, one can issue a governance token to vote for proposals. The tokens themselves will be pure utility tokens without monetary value. However, if one wishes to vote in the DAA, one must pay a gas fee for the use of the network. At the time of writing, the only major missing component is the ability to write, discuss, and publish law in a decentralized manner---a relatively simple feature with existing technology.
 
@@ -50,7 +51,7 @@ The difference between the DAO, DAA, and BVS is as follows:
 
 Any blockchain adding this functionality could bring a massive amount of (non-financial) use cases to its ecosystem. The benefits of non-financial use cases extend beyond significant demand for tokens to pay gas fees. They add a level of professionalism and decentralization to a chain that is impossible to ignore. A blockchain that acts as infrastructure for shareholder votes, NGO democracies, and local government law-making has little chance of being scrutinized by judges or regulators. Judges and legislators must consider the consequences of their actions, and they will be reluctant to shut down crucial, widely used infrastructure that people depend on for governance (instead of rampant speculation).
 
-###Example of DAA use
+### Example of DAA use
 
 *Bob and Alice are representatives of two major trade organizations. Due to ongoing geopolitical uncertainty, their members face a tremendous increase in legal costs. They wonder if there is a way for them to create industry standards that can help standardize the ongoing contracting work. Alice decides to form a DAA and issue governance tokens for her and Bob. She invites fellow representatives Carol and Dan. Next, Alice proposes the first versions of the legislation on GitHub. Bob and Dan like the idea. Carol points out several potential problems with the current version based on recent industry developments. Bob, Dan, and Carol all agree that these are necessary additions.*
 
@@ -58,7 +59,7 @@ Any blockchain adding this functionality could bring a massive amount of (non-fi
 
 ## Legal Framework for the DAA: Consensus Jurisdiction
 
-The Decentralized Autonomous Association concept can operate within a legal framework known as a "Consensus Jurisdiction" (CJ). This provides important context for implementers to understand the legal foundation that makes DAAs viable.
+If it wants, the Decentralized Autonomous Association concept could operate within a legal framework known as a "Consensus Jurisdiction" (CJ). This provides important context for implementers to understand the legal foundation that makes DAAs viable.
 
 ### What is a Consensus Jurisdiction?
 
@@ -87,7 +88,7 @@ The Consensus Jurisdiction framework makes DAAs particularly suitable for:
 - Digital areas like smart contracts and blockchain governance,
 - International trading, e-commerce, and freelance work,
 - Democratizing law-making and standard-setting processes,
-- Create a framework for the currently legally toothless "network state.
+- Create a framework for the currently legally toothless "network state."
 
 ## Call for Technical Input & Open Research Questions
 
