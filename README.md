@@ -121,3 +121,7 @@ Feel free to:
 You can reach me with questions about the concept.
 
 _Note: This repository is meant to inspire and facilitate discussion, not to dictate implementation. The concept is offered freely to the community to develop as they see fit._
+
+---
+
+First Published: April 17, 2025.
